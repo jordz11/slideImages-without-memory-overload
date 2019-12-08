@@ -1,2 +1,4 @@
 https://api.nuget.org/v3/index.json
 https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/
+https://stackoverflow.com/questions/904478/how-to-fix-the-memory-leak-in-ie-webbrowser-control
+https://www.codeproject.com/Questions/148071/Webbrowser-Problem-C
