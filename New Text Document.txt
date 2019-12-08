@@ -1,1 +1,2 @@
 https://api.nuget.org/v3/index.json
+https://michaelscodingspot.com/find-fix-and-avoid-memory-leaks-in-c-net-8-best-practices/
